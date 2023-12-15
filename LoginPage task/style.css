@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+input{
+    width: 100%;
+     border-radius: 5px;
+}
+button{
+    margin-left: 35%;
+    width: 30%;
+}
+p{
+    text-align: center;
+}
